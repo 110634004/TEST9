@@ -1,0 +1,128 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-side-projects-js": [
+      "component---src-pages-side-projects-js-ee2f7f003803a1f6c943.js",
+      "component---src-pages-side-projects-js-ee2f7f003803a1f6c943.js.map"
+    ],
+    "path---work-livello": [
+      "path---work-livello-f745737025c668db2617.js",
+      "path---work-livello-f745737025c668db2617.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-14fee80b1da3d309ad9f.js",
+      "component---src-pages-index-js-14fee80b1da3d309ad9f.js.map"
+    ],
+    "path---work-delivery": [
+      "path---work-delivery-306d80d4ca2bf0a638ce.js",
+      "path---work-delivery-306d80d4ca2bf0a638ce.js.map"
+    ],
+    "path---": [
+      "path----a77796984faaefaa1dae.js",
+      "path----a77796984faaefaa1dae.js.map"
+    ],
+    "component---src-articles-digital-menu-index-js": [
+      "component---src-articles-digital-menu-index-js-1fbbaa538cf96cdbf8d2.js",
+      "component---src-articles-digital-menu-index-js-1fbbaa538cf96cdbf8d2.js.map"
+    ],
+    "component---src-articles-delivery-index-js": [
+      "component---src-articles-delivery-index-js-8c3cdf75f56ab4046497.js",
+      "component---src-articles-delivery-index-js-8c3cdf75f56ab4046497.js.map"
+    ],
+    "component---src-articles-dsk-companion-index-js": [
+      "component---src-articles-dsk-companion-index-js-d58be1fd0e7ad8e8cda7.js",
+      "component---src-articles-dsk-companion-index-js-d58be1fd0e7ad8e8cda7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1ad4cf1e5aefd694cc71.js",
+      "component---src-layouts-index-js-1ad4cf1e5aefd694cc71.js.map"
+    ],
+    "component---src-articles-metroc-index-js": [
+      "component---src-articles-metroc-index-js-01388669e32d88b47864.js",
+      "component---src-articles-metroc-index-js-01388669e32d88b47864.js.map"
+    ],
+    "path---work-wimdu-help-center": [
+      "path---work-wimdu-help-center-f342761a99be496711d7.js",
+      "path---work-wimdu-help-center-f342761a99be496711d7.js.map"
+    ],
+    "component---src-articles-livello-index-js": [
+      "component---src-articles-livello-index-js-d8bac05ff1a990428ac8.js",
+      "component---src-articles-livello-index-js-d8bac05ff1a990428ac8.js.map"
+    ],
+    "path---index": [
+      "path---index-67bd575768b4e4430a9a.js",
+      "path---index-67bd575768b4e4430a9a.js.map"
+    ],
+    "path---work-metroc": [
+      "path---work-metroc-9cda94e5ca8f568a14d1.js",
+      "path---work-metroc-9cda94e5ca8f568a14d1.js.map"
+    ],
+    "commons": [
+      "commons-2ae4998714013d640dc2.js",
+      "commons-2ae4998714013d640dc2.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-least-authority": [
+      "path---work-least-authority-f01b9a1a53773e6327b0.js",
+      "path---work-least-authority-f01b9a1a53773e6327b0.js.map"
+    ],
+    "component---src-pages-404-index-js": [
+      "component---src-pages-404-index-js-7c7312e1c0c924fdd2f2.js",
+      "component---src-pages-404-index-js-7c7312e1c0c924fdd2f2.js.map"
+    ],
+    "component---src-articles-least-authority-index-js": [
+      "component---src-articles-least-authority-index-js-41a883d8c9bfd8809126.js",
+      "component---src-articles-least-authority-index-js-41a883d8c9bfd8809126.js.map"
+    ],
+    "component---src-articles-momenta-index-js": [
+      "component---src-articles-momenta-index-js-58a0d01c3cee8e236c80.js",
+      "component---src-articles-momenta-index-js-58a0d01c3cee8e236c80.js.map"
+    ],
+    "path---work-digital-menu": [
+      "path---work-digital-menu-4b5bc7b13c77d3b500dd.js",
+      "path---work-digital-menu-4b5bc7b13c77d3b500dd.js.map"
+    ],
+    "path---work-momenta": [
+      "path---work-momenta-8f52e7a454fadb04c126.js",
+      "path---work-momenta-8f52e7a454fadb04c126.js.map"
+    ],
+    "component---src-articles-wimdu-help-center-index-js": [
+      "component---src-articles-wimdu-help-center-index-js-48f700b70723cc5b8c9b.js",
+      "component---src-articles-wimdu-help-center-index-js-48f700b70723cc5b8c9b.js.map"
+    ],
+    "app": [
+      "app-0caefc28175bb1610762.js",
+      "app-0caefc28175bb1610762.js.map"
+    ],
+    "component---src-articles-livello-replenisher-index-js": [
+      "component---src-articles-livello-replenisher-index-js-65c322526dfbc030f5ab.js",
+      "component---src-articles-livello-replenisher-index-js-65c322526dfbc030f5ab.js.map"
+    ],
+    "path---work-dsk-companion": [
+      "path---work-dsk-companion-c18c668e433a86b2c37b.js",
+      "path---work-dsk-companion-c18c668e433a86b2c37b.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-c3d2521c162ed1d774f1.js",
+      "component---src-pages-about-js-c3d2521c162ed1d774f1.js.map"
+    ],
+    "path---work-livello-replenisher": [
+      "path---work-livello-replenisher-ecd071c045eb791b478d.js",
+      "path---work-livello-replenisher-ecd071c045eb791b478d.js.map"
+    ],
+    "path---about": [
+      "path---about-feee5b79fd1234740f7c.js",
+      "path---about-feee5b79fd1234740f7c.js.map"
+    ],
+    "path---side-projects": [
+      "path---side-projects-a0e39f21c11f6a62c5ab.js",
+      "path---side-projects-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
