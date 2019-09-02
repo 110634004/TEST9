@@ -3,7 +3,7 @@ var autoprefixer = require('autoprefixer');
 var cssvariables = require('postcss-css-variables');
 
 module.exports = {
-  pathPrefix: "/TEST9",
+  pathPrefix: "/TEST10",
   siteMetadata: {
     title: 'Fabian Schultz',
     author: 'Fabian Schultz',
